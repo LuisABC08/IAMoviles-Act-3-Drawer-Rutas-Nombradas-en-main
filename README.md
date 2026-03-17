@@ -6,6 +6,25 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
+<img width="1227" height="498" alt="image" src="https://github.com/user-attachments/assets/b38be7d7-721d-4316-8c79-026c0661d797" />
+<img width="1224" height="490" alt="image" src="https://github.com/user-attachments/assets/61f06c58-85fb-4e88-b184-127478b7ef70" />
+<img width="1216" height="559" alt="image" src="https://github.com/user-attachments/assets/c4424f7a-7869-40dd-b4ef-802a9395fecd" />
+<img width="1223" height="558" alt="image" src="https://github.com/user-attachments/assets/58334188-c126-4c5e-b68a-6d702133e423" />
+<img width="1215" height="491" alt="image" src="https://github.com/user-attachments/assets/92982d29-56f5-4cee-ae13-fd037c8eef0e" />
+
+
+## promt
+Drawer Rutas Nombradas en main
+procedimiento
+Drawer ( con 4 opciones)encabezado: imagen de una manzana verde desde la red, nombre empresa( EasyDiet), dirección( 8451 calle maduro, tlaxcala, Mexico ), teléfono( 6561112233), correo( EasyDiet@gmail.com),
+Listile: icono, texto y acción para abrir  pagina según opción de listile, (inicio, Planes, recetas, calendario)
+En cada pagina una imagen centrada de 200x200 desde la red  (desde github:https://github.com/LuisABC08/imagenes.git)                                                                                               que los colores sean el fondo gris oscuro y el color secundario verde lima y gris mas claro, los textos en blanco
+Utilizar rutas nombradas para navegar entre paginas desde el drawer (rutas nombradas.
+trabajar con firebase studio
+En readme escribir el prompt para generar la app en un solo archivo segun lo anterior + las imagenes correspondientes,
+probar en dartpad antes de trabajar en firbase studio.
+en firebase studio el main.dart  rutas nombradas + carpeta  "LasPaginas" y dentro de ellas los archivos correspondientes de dart.
+
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
