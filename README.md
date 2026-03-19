@@ -13,6 +13,13 @@ This project is a starting point for a Flutter application.
 <img width="1215" height="491" alt="image" src="https://github.com/user-attachments/assets/92982d29-56f5-4cee-ae13-fd037c8eef0e" />
 
 
+<img width="252" height="455" alt="image" src="https://github.com/user-attachments/assets/b84ee0d7-ab0a-4fd2-a3b2-a15f30bca78d" />
+<img width="273" height="453" alt="image" src="https://github.com/user-attachments/assets/666656cd-4ed5-4071-be1a-3db62c01d589" />
+<img width="257" height="444" alt="image" src="https://github.com/user-attachments/assets/bd998fa8-4cfb-4720-8e62-4282c89aa1a2" />
+<img width="275" height="448" alt="image" src="https://github.com/user-attachments/assets/b90cea46-f5b7-462c-b07e-b9b585466abc" />
+<img width="251" height="448" alt="image" src="https://github.com/user-attachments/assets/6afe9a9e-fee6-4d38-bcda-f7e589c333fb" />
+
+
 ## promt
 Drawer Rutas Nombradas en main
 procedimiento
